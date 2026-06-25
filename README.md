@@ -60,3 +60,18 @@ This project implements **YOLOv8** for detecting and tracking vehicles in traffi
 | NumPy | 1.24+ | Numerical computing |
 
 ## 📁 Project Structure
+vehicle-detection-yolo/
+│
+├── 📄 main.py # Main detection script
+├── 📄 main_tracking.py # Object tracking script
+├── 📄 train.py # Training script
+├── 📄 coco1289.yaml # Dataset configuration
+├── 📄 requirements.txt # Dependencies
+├── 📄 yolov8s.pt # Pre-trained model
+│
+├── 📄 BAOCAOCOIKY_XLA_ne.pdf # Project report (Vietnamese)
+├── 📄 cuoikyy.pdf # Final report (Vietnamese)
+├── 📄 link_video_youtube.txt # YouTube demo video link
+│
+└── 📄 README.md # Documentation
+
