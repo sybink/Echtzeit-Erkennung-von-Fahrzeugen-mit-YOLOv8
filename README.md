@@ -74,4 +74,3 @@ vehicle-detection-yolo/
 ├── 📄 link_video_youtube.txt # YouTube demo video link
 │
 └── 📄 README.md # Documentation
-
